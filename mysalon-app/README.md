@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##Project Scope
+This project is intended to re-create my business's webpage and to also integrate an appointment request scheduler. The webpage that I am attempting to recreate is wwww.NailShackEAV.net which was created by WIX. 
+
+My application will display the services and then have an option for users to click on a button to request an appointment for that service similar to an application called Salon Iris. 
+
+Clients/Users are required to create a login if they do not already have one in order to request appointments and services are only able to be edited by the user that created them. 
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
