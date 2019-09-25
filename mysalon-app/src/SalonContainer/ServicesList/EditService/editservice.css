@@ -1,0 +1,7 @@
+.modalbody {
+    background-color: #fefefe;
+    margin: 10% auto; /* 15% from the top and centered */
+    padding: 10px;
+    width: 80%; /* Could be more or less, depending on screen size */
+    align-content: space-around;
+  }
